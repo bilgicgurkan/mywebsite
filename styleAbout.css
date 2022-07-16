@@ -1,0 +1,23 @@
+
+.afterNavbar {
+    margin-top: 85px;
+    height: 300px;
+    background-image: radial-gradient(circle at 50% -20.71%, #f4e9c7 0, #efeac7 6.25%, #eaecc8 12.5%, #e5edca 18.75%, #e0eecc 25%, #dbefcf 31.25%, #d6f0d2 37.5%, #d2f1d6 43.75%, #cdf2da 50%, #c9f3de 56.25%, #c5f3e3 62.5%, #c2f3e7 68.75%, #bff3ec 75%, #bdf3f0 81.25%, #bcf3f5 87.5%, #bcf3f9 93.75%, #bcf2fd 100%);
+}
+
+.trFirst {
+    font-size: 3rem;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+.trSecond {
+    font-weight: bolder;
+    font-variant: small-caps;
+
+}
+
+.trThird {
+    font-style:italic;
+    opacity:0.5;
+}

@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@1,500&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+
+.backItalic {
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,0.6643032212885154) 100%);
+    position:absolute;
+    left:-65px;
+    width: 985px;
+    height: 885px;
+    transform: rotate(150deg);
+    z-index:-1;   
+    opacity:0.2;
+
+}
+
+.backItalic2 {
+    background: rgb(131,58,180);
+    background: linear-gradient(93deg, rgba(131,58,180,1) 0%, rgba(253,29,29,0) 50%, rgba(252,176,69,1) 100%);
+    position:absolute;
+    right: -65px;
+    width: 985px;
+    height: 885px;
+    transform: rotate(140deg);
+    z-index:-1;   
+    opacity:0.2;
+
+}
+
+.backItalic3{
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,0.6643032212885154) 100%);
+    position:absolute;
+    right:45px;
+    width: 985px;
+    height: 885px;
+    transform: rotate(150deg);
+    z-index:-1;   
+    opacity:0.2;
+
+}
+
+.backItalic4{
+    background: rgb(131,58,180);
+    background: linear-gradient(93deg, rgba(131,58,180,1) 0%, rgba(253,29,29,0) 50%, rgba(252,176,69,1) 100%);
+    position:absolute;
+    left:-65px;
+    width: 985px;
+    height: 885px;
+    transform: rotate(140deg);
+    z-index:-1;   
+    opacity:0.2;
+}
+
+.backItalic5{
+    background: rgb(131,58,180);
+    background: linear-gradient(93deg, rgba(131,58,180,1) 0%, rgba(253,29,29,0) 50%, rgba(252,176,69,1) 100%);
+    position:absolute;
+    left:-65px;
+    width: 985px;
+    height: 885px;
+    transform: rotate(125deg);
+    z-index:-1;   
+    opacity:0.6;
+}
+
+
+#fontStyle{
+    font-family:'Montserrat Alternates', sans-serif;;
+}
+
+#fontTitle{
+    font-family: 'Staatliches', cursive;
+
+}
